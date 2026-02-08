@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "756828260792",
+    "project_id": "authfirebase-celia",
+    "storage_bucket": "authfirebase-celia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756828260792:android:a79997f4f0b89f484da74d",
+        "android_client_info": {
+          "package_name": "com.example.authfirebase_celia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756828260792-4pud03d1gap3d9cgvq0pc52dfdoi7eqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authfirebase_celia",
+            "certificate_hash": "446cb33c05177058ad1f2fdaa0f50e001a0d8aa1"
+          }
+        },
+        {
+          "client_id": "756828260792-omrlfcdq365dpg7qhgsvr6so7kdq3h38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLJL_owN4dwieyOgijvYmqQbywT4QlAXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756828260792-5jd99rauo8oefol7qgk4ta44k23r1soc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
